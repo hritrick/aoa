@@ -46,3 +46,14 @@ public class LCS {
         System.out.println("Longest Common Subsequence: " + new String(lcs));
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter first string: LONGEST
+Enter second string: STONE
+
+SAMPLE OUTPUT:
+Length of LCS: 3
+Longest Common Subsequence: ONE
+*/
+

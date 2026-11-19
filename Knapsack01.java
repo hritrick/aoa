@@ -45,3 +45,23 @@ public class Knapsack01 {
         System.out.println("Maximum value: " + dp[n][W]);
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter number of items: 4
+Enter values of 4 items:
+10 40 30 50
+Enter weights of 4 items:
+5 4 6 3
+Enter knapsack capacity: 10
+
+SAMPLE OUTPUT:
+DP Table:
+0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	10	10	10	10	10	10	
+0	0	0	0	40	40	40	40	40	50	50	
+0	0	0	0	40	40	40	40	40	50	70	
+0	0	0	50	50	50	50	90	90	90	90	
+Maximum value: 90
+*/
+

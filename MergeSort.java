@@ -69,3 +69,15 @@ public class MergeSort {
         System.out.println();
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter number of elements: 6
+Enter 6 elements:
+38 27 43 3 9 82
+
+SAMPLE OUTPUT:
+Sorted array:
+3 9 27 38 43 82 
+*/
+

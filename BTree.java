@@ -162,3 +162,17 @@ public class BTree {
         }
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter minimum degree t: 3
+Enter number of elements to insert: 7
+Enter 7 elements:
+10 20 5 6 12 30 7
+Enter element to search: 12
+
+SAMPLE OUTPUT:
+Traversal of B-Tree: 5 6 7 10 12 20 30 
+Element 12 found in B-Tree
+*/
+

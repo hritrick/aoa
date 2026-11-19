@@ -67,3 +67,19 @@ public class JobSequencing {
         System.out.println("Total profit: " + totalProfit);
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter number of jobs: 5
+Enter Job ID, Deadline, and Profit for each job:
+Job 1: J1 2 100
+Job 2: J2 1 19
+Job 3: J3 2 27
+Job 4: J4 1 25
+Job 5: J5 3 15
+
+SAMPLE OUTPUT:
+Job order: J3 J1 J5 
+Total profit: 142
+*/
+

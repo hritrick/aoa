@@ -46,3 +46,15 @@ public class QuickSort {
         System.out.println();
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter number of elements: 7
+Enter 7 elements:
+10 80 30 90 40 50 70
+
+SAMPLE OUTPUT:
+Sorted array:
+10 30 40 50 70 80 90 
+*/
+

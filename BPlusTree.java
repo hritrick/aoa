@@ -167,3 +167,17 @@ public class BPlusTree {
         }
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter degree t: 3
+Enter number of elements to insert: 6
+Enter 6 elements:
+10 20 5 6 12 30
+Enter element to search: 12
+
+SAMPLE OUTPUT:
+Leaf nodes in order: 5 6 10 -> 12 20 30 -> null
+Element 12 found in B+ Tree
+*/
+

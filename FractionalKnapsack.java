@@ -66,3 +66,21 @@ public class FractionalKnapsack {
         System.out.println("Maximum value: " + totalVal);
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter number of items: 3
+Enter value and weight for each item:
+Item 1 (value weight): 60 10
+Item 2 (value weight): 100 20
+Item 3 (value weight): 120 30
+Enter knapsack capacity: 50
+
+SAMPLE OUTPUT:
+Items taken:
+Item 1: weight = 10.0, value = 60.0 (taken 100%)
+Item 2: weight = 20.0, value = 100.0 (taken 100%)
+Item 3: weight = 20.0, value = 80.0 (taken 66.66666666666666%)
+Maximum value: 240.0
+*/
+

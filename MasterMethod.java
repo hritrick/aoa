@@ -26,3 +26,17 @@ public class MasterMethod {
         }
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter a: 2
+Enter b: 2
+Enter k (exponent of n in f(n) = n^k): 1
+
+SAMPLE OUTPUT:
+log_b(a) = 1.0
+k = 1.0
+Case 2 applies: log_b(a) == k
+Time Complexity: T(n) = Theta(n^1.0 * log n)
+*/
+

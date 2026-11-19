@@ -38,3 +38,15 @@ public class BinarySearch {
         }
     }
 }
+
+/*
+SAMPLE INPUT:
+Enter number of elements: 5
+Enter 5 sorted elements:
+10 20 30 40 50
+Enter key to search: 30
+
+SAMPLE OUTPUT:
+Element 30 found at index 2
+*/
+
